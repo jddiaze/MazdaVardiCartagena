@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Bogota:20241003T090000
+DTEND;TZID=America/Bogota:20241003T210000
+SUMMARY:Realismo Mágico Mazda - Nueva Experiencia Vardí 2.24
+DESCRIPTION:Únete a nosotros en el lanzamiento de la nueva experiencia Vardí con Mazda en Calle 30 #37-07, Av. Pedro de Heredia, Cartagena.
+LOCATION:Calle 30 #37-07, Av. Pedro de Heredia, Cartagena
+END:VEVENT
+END:VCALENDAR
